@@ -68,7 +68,7 @@ The smaller CNN performed slightly better while being more efficient — showing
 ---
 
 ## How to Run
-1. Clone the repository:
+Clone the repository:
  ```bash
  git clone https://github.com/yourusername/fashion-mnist-cnn.git
  cd fashion-mnist-cnn
